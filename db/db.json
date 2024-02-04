@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "Ali",
+      "surname": "Imanov",
+      "age": "26",
+      "phone": "+994 70 558 54 88",
+      "mail": "ali@mail.ru"
+    },
+    {
+      "name": "Ali",
+      "surname": "Imanov",
+      "age": "26",
+      "phone": "+994 70 558 54 88",
+      "mail": "ali@mail.ru"
+    },
+    {
+      "name": "Ali",
+      "surname": "Imanov",
+      "age": "26",
+      "phone": "+994 70 558 54 88",
+      "mail": "ali@mail.ru"
+    },
+    {
+      "id": "eb8d",
+      "name": "Alsasai",
+      "surname": "Imanov",
+      "age": "26",
+      "phone": "+994 70 558 54 88",
+      "mail": "ali@mail.ru"
+    },
+    {
+      "id": "4e04",
+      "name": "Alsasai",
+      "surname": "Imanov",
+      "age": "26",
+      "phone": "+994 70 558 54 88",
+      "mail": "ali@mail.ru"
+    }
+  ]
+}
